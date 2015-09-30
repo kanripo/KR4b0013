@@ -1,0 +1,10 @@
+#+KEY: 昭明太子集/昭明太子集
+#+PROPERTY: JUAN 昭明太子集
+#+PROPERTY: BASEEDITION SBCK
+#+PROPERTY: CATEGORY 04別集類
+#+PROPERTY: FW 集部,別集類,漢至五代,昭明太子集
+<pb:ZB4b0011a_WYG_000-1a>¶
+　　　　　　　　　　總　校　官(臣/)陸　費　墀¶
+#-*- mode: mandoku-view; -*-
+#+TITLE: 昭明太子集
+#+PROPERTY: ID ZB4b0011b
