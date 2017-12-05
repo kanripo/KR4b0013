@@ -3,9 +3,6 @@
 #+DATE: 2015-09-23 10:17:28
 #+PROPERTY: LASTPB  <md:KR4b0013_WYG_001-1a>
 #+PROPERTY: JUAN 2
-
-<pb:KR4b0013_SBCK_001-7b>
-
 <pb:KR4b0013_SBCK_002-1a>
 梁昭明太子文集卷第二
 　　詠山濤王戎詩二首¶顔生五君詠不
