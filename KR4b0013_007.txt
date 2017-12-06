@@ -3,8 +3,6 @@
 #+DATE: 2015-09-23 10:17:28
 #+PROPERTY: LASTPB  <md:KR4b0013_WYG_001-1a>
 #+PROPERTY: JUAN 7
-
-<pb:KR4b0013_SBCK_006-3a>
 <md:ZB4b0011a_WYG_000-1a>¶
 <pb:KR4b0013_SBCK_007-1a>
 　池陽郡齋旣𠜇文𨕖與𩀱字二書於以
@@ -15,3 +13,4 @@
 　無媿
 　淳熈八年歲在辛丑八月望日郡刺史
 　建𡊮&KR0003;友書
+<pb:KR4b0013_SBCK_007-1b>
